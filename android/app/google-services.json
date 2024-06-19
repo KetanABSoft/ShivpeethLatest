@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530251959476",
+    "project_id": "prashalamessages",
+    "storage_bucket": "prashalamessages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530251959476:android:0d6086982e9f137dd05be1",
+        "android_client_info": {
+          "package_name": "com.shivpeeth_erp_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHO6KHlR61ZdI5CFkhW6On12Zk9-dSdzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
